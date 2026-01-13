@@ -1,5 +1,6 @@
 thumbnail: CISP2024-ENSO-Climate-PacificRegion-figure.png
 tags:
+  domains:
   - Climate Science
   - ENSO
   - El Niño
@@ -11,3 +12,7 @@ tags:
   - Climate Variability
   - Oceanic Niño Index
   - Teleconnections
+  packages:
+  - package1
+  - p2
+  - p3
