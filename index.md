@@ -2,7 +2,12 @@
 title: Impacts of ENSO on Climate Variable in the Pacific Region
 subject: Article
 short_title: ENSO Impacts on Pacific Climate
-keywords: ENSO, El Niño, La Niña, Pacific Ocean, Climate Variability, Sea Surface Temperature, Precipitation, Air Temperature, Oceanic Niño Index
+keywords: 
+    - ENSO
+    - Sea Surface Temperature
+    - Air Temperature
+    - Oceanic Niño Index
+abstract: "" # needed for typst export, mandatory
 ---
 
 # Impacts of ENSO on Climate Variable in the Pacific Region
