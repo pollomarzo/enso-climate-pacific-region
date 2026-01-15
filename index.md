@@ -10,6 +10,15 @@ keywords:
 abstract: "" # needed for typst export, mandatory
 ---
 
+# Seminar presentation
+```{iframe} https://www.youtube.com/embed/VkbldtZCzfA
+:width: 100%
+
+This article was presented as part of a series of seminars chaired by scientists from Climatematch Academy’s collaborating organizations, CMIP (Couple Model Intercomparison Project) and LEAP (Learning the Earth with Artificial Intelligence and Physics).
+```
+
+
+
 # Impacts of ENSO on Climate Variable in the Pacific Region
 
 ## Introduction
