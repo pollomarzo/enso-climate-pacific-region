@@ -47,3 +47,8 @@ project:
     title: Code
   - file: CISP2024-ENSO-Climate-PacificRegion-supplementary-materials.zip
     title: Supplementary material
+  keywords:
+    - ENSO
+    - Sea Surface Temperature
+    - Air Temperature
+    - Oceanic Niño Index

@@ -2,11 +2,6 @@
 title: Impacts of ENSO on Climate Variable in the Pacific Region
 subject: Article
 short_title: ENSO Impacts on Pacific Climate
-keywords: 
-    - ENSO
-    - Sea Surface Temperature
-    - Air Temperature
-    - Oceanic Niño Index
 abstract: "" # needed for typst export, mandatory
 ---
 
